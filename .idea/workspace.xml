@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67d8ad2a-d8ed-4b94-894d-2f58a1e1bd07" name="Changes" comment="Initial first commit">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Notes.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="67d8ad2a-d8ed-4b94-894d-2f58a1e1bd07" name="Changes" comment="Added functions for deleting and editing some info">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +42,28 @@
       <option name="project" value="LOCAL" />
       <updated>1679409363351</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial first commit">
+      <created>1679412378243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679412378243</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added 2 functions : append file and save it to csv format and file csv itself to demonstrate example of input">
+      <created>1679412603517</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679412603517</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added functions for deleting and editing some info">
+      <created>1679413503256</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679413503256</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,6 +91,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial first commit" />
+    <MESSAGE value="Added 2 functions : append file and save it to csv format and file csv itself to demonstrate example of input" />
+    <MESSAGE value="Added functions for deleting and editing some info" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added functions for deleting and editing some info" />
   </component>
 </project>
