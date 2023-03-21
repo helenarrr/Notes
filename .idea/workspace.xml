@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67d8ad2a-d8ed-4b94-894d-2f58a1e1bd07" name="Changes" comment="Added functions for deleting and editing some info">
+    <list default="true" id="67d8ad2a-d8ed-4b94-894d-2f58a1e1bd07" name="Changes" comment="Added main function and menu interface">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679413503256</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added functions for sorting the notes by date, reading all the notes and one">
+      <created>1679414003869</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679414003869</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added main function and menu interface">
+      <created>1679414211695</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679414211695</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +108,8 @@
     <MESSAGE value="Initial first commit" />
     <MESSAGE value="Added 2 functions : append file and save it to csv format and file csv itself to demonstrate example of input" />
     <MESSAGE value="Added functions for deleting and editing some info" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added functions for deleting and editing some info" />
+    <MESSAGE value="Added functions for sorting the notes by date, reading all the notes and one" />
+    <MESSAGE value="Added main function and menu interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added main function and menu interface" />
   </component>
 </project>
